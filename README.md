@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matt</h1>
-<h3 align="center">A student @ Le Wagon Paris🇫🇷 (Batch #703), originally from Melbourne🇦🇺</h3>
+<h3 align="center">Alumni @ Le Wagon, Paris🇫🇷 (Batch #703), originally from Melbourne🇦🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praptolium&label=Profile%20views&color=0e75b6&style=flat" alt="praptolium" /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and Javascript**
+- 💫 Full-Stack Web Developer - Ruby on Rails / ReactJS
 
 - 📫 How to reach me **praptolium@gmail.com**
 
