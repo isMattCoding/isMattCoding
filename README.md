@@ -5,7 +5,7 @@
 
 - 💫 Full-Stack Web Developer - Ruby on Rails / ReactJS
 
-- 📫 How to reach me **praptolium@gmail.com**
+- 📫 How to reach me **Matthew.Clark@WMBT.Services**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
