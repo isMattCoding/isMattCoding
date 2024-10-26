@@ -5,7 +5,7 @@
 
 - 💫 Full-Stack Web Developer - Ruby on Rails / ReactJS
 
-- 📫 How to reach me **Matthew.Clark@WMBT.Services**
+- 📫 Reach me here: <a href="https://wmbt.services/contact" target="blank">Contact form</a>
 
 - 🎨 Check out my portfolio here: <a href="https://wmbt.services" target="blank">WMBT Web Services</a>
 
